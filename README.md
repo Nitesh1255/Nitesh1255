@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS and Node JS**
 
-- 💬 Ask me about **Javascript , CSS3 , HTML5 , MySql ,Computer Networking**
+- Ask me about **Javascript , CSS3 , HTML5 , MySql ,Computer Networking**
 
 - 📫 How to reach me **niteshnlg210200@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitesh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niteshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh yadav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nitesh_55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitesh_55" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niteshnlg210200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niteshnlg210200" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nitesh21020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitesh21020" height="30" width="40" /></a>
