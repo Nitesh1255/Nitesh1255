@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh1255&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh1255" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **React JS and Node JS**
 
 - 💬 Ask me about **Javascript , CSS3 , HTML5 , MySql ,Computer Networking**
 
