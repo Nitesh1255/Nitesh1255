@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **Javascript , CSS3 , HTML5 , MySql ,Computer Networking,oops**
+- 💬 Ask me about **Javascript , CSS3 , HTML5 , MySql ,Computer Networking**
 
 - 📫 How to reach me **niteshnlg210200@gmail.com**
 
