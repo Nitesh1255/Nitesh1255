@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF4aDJrOHJoaXRjOHJwdDB0N2loemZuOGtiMnkycW00cXUzN2poZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"
- align="right" alt="code" width="350" height="300">
+ align="right" alt="code" width="200" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh1255&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh1255" /> </p>
 
